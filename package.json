@@ -1,5 +1,5 @@
 {
-  "name": "docker-aerospike",
+  "name": "@containership/containership.marketplace.aerospike",
   "private": true,
   "description": "Docker image designed to run an Aerospike cluster on ContainerShip",
   "main": "aerospike.js",
